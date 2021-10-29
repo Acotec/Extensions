@@ -1,1 +1,1 @@
-# Extentions
+# Extensions
